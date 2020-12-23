@@ -1,4 +1,4 @@
-![](GodBlessYourGut/cover.jpg)
+![](cover.jpg)
 ![](GodBlessYourGut/i.jpg)
 ![](GodBlessYourGut/ii-iii.jpg)
 ![](GodBlessYourGut/1.jpg)
